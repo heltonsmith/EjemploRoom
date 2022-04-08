@@ -1,7 +1,8 @@
-package com.heltonbustos.ejemploroom01
+package com.heltonbustos.ejemploroom01.view
 
 import android.app.Activity
 import android.app.AlertDialog
+import com.heltonbustos.ejemploroom01.R
 
 class Dialogo (val mActivity: Activity) {
     private lateinit var isDialog: AlertDialog
